@@ -1,0 +1,13 @@
+train: ../datasets/train/images
+val: ../datasets/valid/images
+test: ../datasets/test/images
+
+nc: 1
+names: ['face']
+
+roboflow:
+  workspace: tri-uuls0
+  project: face-detection-ufiph
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tri-uuls0/face-detection-ufiph/dataset/3
