@@ -2,7 +2,7 @@
 This project was developed and implemented by Daffa Afia Rizfazka and Virdi Rizky Elnanda as part of fulfilling the requirements for the Tugas Besar (Final Project) in the Visi Komputer course.
 
 ## Project Overview
-The objective of this project is to develop a robust face detection system utilizing the YOLOv5 (You Only Look Once, version 5) architecture. The system is trained and evaluated on the Face Detection Small dataset from Kaggle, which contains annotated images with variations in face orientation, scale, and lighting conditions. The project focuses on achieving high precision and recall metrics, ensuring reliable face detection across diverse scenarios.
+The objective of this project is to develop a robust face detection system utilizing the YOLOv5 (You Only Look Once, version 5) architecture. The system is trained and evaluated on the Face Detection Small dataset from Kaggle [FaceDetectionSmall]([https://pages.github.com/](https://www.kaggle.com/datasets/anindya2002mitra/facedetectionsmall)) , which contains annotated images with variations in face orientation, scale, and lighting conditions. The project focuses on achieving high precision and recall metrics, ensuring reliable face detection across diverse scenarios.
 
 ## Key Features
 - Model Architecture: Utilizes YOLOv5 for real-time object detection with pre-trained weights (yolov5s.pt) for faster convergence and better accuracy.
@@ -14,4 +14,7 @@ The objective of this project is to develop a robust face detection system utili
 For any questions or feedback, please contact:
 
 Daffa Afia Rizfazka: daffa.afia.r@gmail.com
+
 Virdi Rizky Elnanda: virdielnanda@gmail.com
+
+IF-45-DSIS03 BDP VISI KOMPUTER
